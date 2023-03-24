@@ -1,0 +1,62 @@
+* {
+    margin: auto;
+    height: auto;
+    padding: auto;
+    background-color:#5B627F;
+}
+.title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F4EAE2;
+    font-size: 50px;
+
+}
+.card{
+
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #F4EAE2;
+    border-radius: 25px;
+    vertical-align: middle;
+
+
+}
+.button{
+    vertical-align: middle;
+    background-color: #F4EAE2;
+    text-align: left;
+    display: flex;
+	
+}
+.button1{
+    background-color: #F4EAE2;
+    margin: auto;
+    padding: 40px;
+	
+    
+}
+.button1 .btn {
+    justify-content: center;
+    background: #E9A965;
+    font-size: 40px;
+    border-radius: 20px;
+	font-size: 30px;
+    
+}
+.card .mb-3{
+    background-color: #F4EAE2;
+    margin-left: auto;
+}
+
+.input{
+
+	margin: auto;
+    background-color: #F4EAE2;
+    text-align: center;
+}
+.input .form-control{
+    border-radius: 7.1111111111111111px;
+
+}
+
