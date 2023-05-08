@@ -85,15 +85,15 @@ p{
 
 .card {
 	/* float:inline-start; */
-	float:left;
 	/* background: rgb(97, 135, 31); */
 	/* box-shadow: 5px 8px 5px 8px  rgb(0, 0, 0); */
+	margin: center;
 	width: 400px;
-	height: 200px;
+	height: 100px;
 	margin: auto;
 	text-align: center;
 	font-family: arial;
-	padding: 50px;
+	padding: 20px;
   }
   
   .card button {
